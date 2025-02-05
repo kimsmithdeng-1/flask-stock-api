@@ -1,2 +1,2 @@
-rm requirements.txt  # 删除旧的文件
-echo -e "Flask==2.2.5\ngunicorn" > requirements.txt  # 创建新的文件
+Flask==2.2.5
+gunicorn
